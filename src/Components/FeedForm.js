@@ -66,7 +66,7 @@ function FeedForm() {
     return (
         <Card>
             <form onSubmit={handleFormSumbit}>
-                <h2> Please enter your feedback</h2>
+                <h2> Please enter your feedback and give Rating out of 10</h2>
                 <Ratings handleSelect={setRatings} selected={ratings} />
                 <div className='input-group'>
                     <input type={text} onChange={handleTextChange} value={text} />

@@ -16,7 +16,7 @@ function About() {
                     A React project under the banner of SaMs-Hub
                 </h2>
                 <p style={{color:"gray"}}>
-                Feedify app is in the form of ratings and comment surveys , Which is provide a platform for survey researcher, survey analyst, market researcher, or customer insights specialist they can Administer or Analyzed survey (This involves using statistical methods to analyze the data collected from the survey)
+                Feedify app is in the form of ratings and comment surveys , Which is provide a platform for survey researcher, survey analyst, market researcher, or customer insights specialist they can Administer or Analyzed survey (This involves using statistical methods to analyze the data collected from the survey).
                 </p>
 
                 <p>
