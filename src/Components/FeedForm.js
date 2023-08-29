@@ -45,7 +45,7 @@ function FeedForm() {
 
     const handleFormSumbit = (e) => {
         e.preventDefault();
-        if (text.trim().length > 2) {
+        if (text.trim().length > 3) {
             const newFeedback = {
                 text,
                 ratings,
